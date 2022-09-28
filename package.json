@@ -1,0 +1,12 @@
+{
+  "name": "missed",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nicholaschiang/missed",
+  "author": "Nicholas Chiang <nicholas.h.chiang@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "serve": "^14.0.1"
+  },
+  "packageManager": "yarn@3.2.3"
+}
